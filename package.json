@@ -13,7 +13,7 @@
     "url": "git://github.com/rendrjs/rendr.git"
   },
   "dependencies": {
-    "async": "~0.9.0",
+    "async": "~3.2.2",
     "backbone": "^1.2.1",
     "debug": "*",
     "errorhandler": "~1.3.5",
